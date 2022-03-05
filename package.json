@@ -1,0 +1,17 @@
+{
+  "name": "circleci-intro",
+  "version": "1.0.0",
+  "description": "setting up circleCI tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Paul Ryan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
